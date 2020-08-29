@@ -1,0 +1,56 @@
+body
+{
+	background-color:orchid;
+}
+#header-nav{
+	background-color:sandybrown;
+	border-radius:0;
+	border:0;
+}
+.container{
+	margin-left:0px;
+}
+.navbar-brand span{
+	color:white;
+	float:right;
+}
+.navbar-header button.navbar-toogle,.navbar-header .icon-bar{
+border:1px solid DeepPink;
+}
+#nav-list span:hover{
+	background:#E7E7E7;
+}
+#dropdown a{
+	text-align:center;
+	fontsize:18px;
+
+}
+#dropdown hr{
+border-top: 1px solid white;	
+}
+#dropdown a{
+	color:white;
+	font-size: 14px;
+}
+#firstbox{
+	border: 2px solid DeepPink;
+	background-color:bisque;
+	text-align:center;
+	margin-top:10px;
+	overflow: hidden;
+	padding:5px;
+	margin-bottom:10px;
+}
+.row{
+	width:100%;
+	margin-left:2px;
+}
+#chicken,#beef,#sushi{
+	color:DeepPink;
+	font-size:18px;
+	text-transform: uppercase;
+}
+#firstbox a{
+   font-size:16px;
+   color:DeepPink;
+}
